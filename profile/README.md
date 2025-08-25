@@ -30,7 +30,7 @@
 
 **VAV1ST**  
 
-<img width="200" height="200" alt="vav1st" src="https://github.com/user-attachments/assets/4fa0957e-ffda-4601-a719-c8db0dab1baa" />
+<img width="100" height="100" alt="vav1st" src="https://github.com/user-attachments/assets/4fa0957e-ffda-4601-a719-c8db0dab1baa" />
 
 [twitter](https://x.com/VAV1ST)  
 [telegram](https://t.me/vav1st)  
@@ -38,7 +38,7 @@ discord: VAV1ST
 
 **Jin Kolesnikov**  
 
-<img width="200" height="200" alt="Jin" src="https://github.com/user-attachments/assets/374792dd-df8a-4267-bb34-3d7f7731465a" />
+<img width="100" height="100" alt="Jin" src="https://github.com/user-attachments/assets/374792dd-df8a-4267-bb34-3d7f7731465a" />
 
 [telegram](https://t.me/He11ya)
 
