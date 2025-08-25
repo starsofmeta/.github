@@ -1,6 +1,47 @@
-## Российский клуб экспертов по VR и Метавселенной
+# Звезды Метавселенной
 
 <img width="400" height="400" alt="логотип 4" src="https://github.com/user-attachments/assets/2446ad43-385f-42d6-a98c-c4e96ab67bdd" />
+
+Российский клуб экспертов по VR и Метавселенной
+
+- [сайт](https://themetaversestar.carrd.co/)
+- [telegram](https://t.me/metaversesearch)
+
+*Клуб является закрытым.*  
+*Если вы хотите вступить в клуб и являетесь в чём то специалистом,*   
+*можете заполнить [анкету](https://docs.google.com/forms/d/e/1FAIpQLSfV49qe0rv_DqWdgvOExpN6ambmBU8eK3gWc17aA2qZVTum3A/viewform)*
+
+# Разделы
+
+- [задачи и проекты клуба](https://github.com/orgs/starsofmeta/discussions/30)  
+Проекты клуба и его участников.  
+Созвоны проходят еженедельно по вторникам в 21:00 в закрытом discord-сервере.  
+
+- [дорожная карта клуба](https://github.com/orgs/starsofmeta/discussions/15)  
+`должна обновлятся 1 раз в месяц, но я забываю это делать :ъ`
+
+- [курсы]...  
+`это мне нужно заполнить в будущем`
+
+- [экскурсии]...  
+`это мне нужно заполнить в будущем`
+
+# Основатели клуба
+
+**VAV1ST**  
+
+<img width="200" height="200" alt="vav1st" src="https://github.com/user-attachments/assets/4fa0957e-ffda-4601-a719-c8db0dab1baa" />
+
+[twitter](https://x.com/VAV1ST)  
+[telegram](https://t.me/vav1st)  
+discord: VAV1ST  
+
+**Jin Kolesnikov**  
+
+<img width="200" height="200" alt="Jin" src="https://github.com/user-attachments/assets/374792dd-df8a-4267-bb34-3d7f7731465a" />
+
+[telegram](https://t.me/He11ya)
+
 
 
 <!--
