@@ -1,4 +1,7 @@
-## Hi there 👋
+## Российский клуб экспертов по VR и Метавселенной
+
+<img width="400" height="400" alt="логотип 4" src="https://github.com/user-attachments/assets/2446ad43-385f-42d6-a98c-c4e96ab67bdd" />
+
 
 <!--
 
