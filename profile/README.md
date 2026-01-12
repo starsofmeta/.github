@@ -11,7 +11,7 @@
 *Клуб является закрытым.*  
 *Если вы хотите вступить в клуб и являетесь в чём то специалистом,*   
 *можете заполнить [анкету](https://docs.google.com/forms/d/e/1FAIpQLSfV49qe0rv_DqWdgvOExpN6ambmBU8eK3gWc17aA2qZVTum3A/viewform)* ✏  
-*после этого напишите в лс:*
+*после этого напишите в лс:*  
 *- https://t.me/vav1st*  
 *- https://t.me/He11ya*
 
