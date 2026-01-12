@@ -14,7 +14,7 @@
 
 # Разделы
 
-- 📋 [проекты и задачи клуба]([https://github.com/orgs/starsofmeta/discussions/82](https://github.com/orgs/starsofmeta/discussions/categories/weekly-meeting))
+- 📋 [проекты и задачи клуба](https://github.com/orgs/starsofmeta/discussions/categories/weekly-meeting)
 Проекты клуба и его участников.  
 Созвоны проходят еженедельно по вторникам в 21:00 в закрытом discord-сервере.  
 
